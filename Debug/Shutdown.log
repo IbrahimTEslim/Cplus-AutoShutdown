@@ -1,0 +1,4 @@
+﻿  Shutdown.cpp
+C:\Users\Killua\Desktop\Shutdown\Shutdown.cpp(55,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Killua\Desktop\Shutdown\Shutdown.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+  Shutdown.vcxproj -> C:\Users\Killua\Desktop\Shutdown\Debug\Shutdown.exe

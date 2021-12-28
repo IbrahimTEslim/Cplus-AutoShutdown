@@ -1,0 +1,8 @@
+﻿  Shutdown.cpp
+C:\Users\Killua\Desktop\Shutdown\Shutdown.cpp(55,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Killua\Desktop\Shutdown\Shutdown.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 100 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Shutdown.vcxproj -> C:\Users\Killua\Desktop\Shutdown\Release\Shutdown.exe

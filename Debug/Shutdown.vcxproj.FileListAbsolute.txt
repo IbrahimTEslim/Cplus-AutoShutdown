@@ -1,0 +1,2 @@
+C:\Users\Killua\Desktop\Shutdown\Debug\Shutdown.exe
+C:\Users\Killua\Desktop\Shutdown\Debug\Shutdown.pdb
